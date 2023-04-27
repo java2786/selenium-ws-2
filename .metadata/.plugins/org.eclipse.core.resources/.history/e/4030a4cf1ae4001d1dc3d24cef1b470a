@@ -1,8 +1,0 @@
-package com.demo;
-
-public interface Constants {
-
-	String browser = "firefox";
-	String url = "http://juliemr.github.io/protractor-demo/";
-	
-}
